@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="C8246DEA-B914-430D-936F-0350C2E727D0" ModuleId="10267-11" />
+  <Module PersistentId="E7C64FCB-11C5-4CB6-9091-1007BE466FF2" ModuleId="001-ServerSide" />
+  <Module PersistentId="32A4903A-676D-4381-B83C-9EF9285111D4" ModuleId="002-ClientSide" />
+</Modules>

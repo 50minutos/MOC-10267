@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="97B3EB7A-552D-4C75-B4A9-B0EC38EBBB58" ModuleId="10267-12" />
+  <Module PersistentId="22730F97-BE7D-4359-BC9E-629E5BD1864B" ModuleId="001-WCF" />
+  <Module PersistentId="E18CA633-169F-473E-BC6E-31AFEBC19D0C" ModuleId="002-ConsomeWCF" />
+  <Module PersistentId="F1D02CB7-A279-4E97-B45C-4766C50D9FEE" ModuleId="004-WCFDataService" />
+  <Module PersistentId="D5DD66DA-51D4-44C6-8B01-75F64ABC075C" ModuleId="003-ConsomeWCFAssincrono" />
+</Modules>

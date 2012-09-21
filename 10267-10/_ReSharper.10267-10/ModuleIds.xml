@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="AD0F5FCC-797A-4D64-96D0-2DC3AF936032" ModuleId="10267-10" />
+  <Module PersistentId="A89D4CC1-3FA4-41AA-8E41-FAA3A7E4397B" ModuleId="001-DynamicDataEF" />
+  <Module PersistentId="E5DAAD67-3C11-4C53-8A4E-9FFDE583FC80" ModuleId="001-DynamicDataEntities" />
+</Modules>
